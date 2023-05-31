@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : 
 
 
 # Site Author
@@ -85,9 +85,10 @@ author:
   bio              : "A PhD student in astrophysics"
   location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   email            : "cuixianghan@nao.cas.cn"
+  orcid            : "https://orcid.org/0000-0002-6165-0977"
+  ooglescholar     : "https://scholar.google.com.hk/citations?user=10lxAw4AAAAJ&hl=zh-CN&authuser=1"
   researchgate     : "https://www.researchgate.net/profile/Xianghan-Cui"
   uri              :
   bitbucket        :
@@ -97,13 +98,12 @@ author:
   facebook         :
   foursquare       :
   github           : #"academicpages"
-  google_plus      : "https://scholar.google.com.hk/citations?user=10lxAw4AAAAJ&hl=zh-CN&authuser=1"
+  google_plus      : 
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-6165-0977"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
