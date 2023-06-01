@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-### Representative Papers
+## Representative Papers
 
 1. Evolution of spin period and magnetic field of the Crab pulsar: decay of the braking index by the particle wind flow torque, Universe, 8(12), 628. [doi:10.3390/universe8120628](https://www.mdpi.com/2218-1997/8/12/628).
 2. Fast radio bursts: do repeaters and non-repeaters originate in statistically similar ensembles?, Monthly Notices of the Royal Astronomical Society, 500, 3275. [doi:10.1093/mnras/staa3351](https://doi.org/10.1093/mnras/staa3351).
@@ -24,7 +24,7 @@ author_profile: true
 
 
 
-##### Collaborative Articles
+## Collaborative Articles
 
 1. **2023**, Yuhao Zhu, Chenhui Niu, **Xianghan Cui** et al., *Do Multi-Structural One-Off FRBs Trace Similar Cosmology History with Repeaters?*, Universe, 9(6), 251, [doi: 10.3390/universe9060251](https://doi.org/10.3390/universe9060251).
 2. **2023**, Yangyi Yang, Chengmin Zhang, Di Li, L Chen, Jianwei Zhang, Dehua Wang, L-Y Jiang, **Xianghan Cui**, *Investigating the distribution of double neutron stars and unconventional component mass*, Monthly Notices of the Royal Astronomical Society, 521, 4669–4678, [doi: 10.1093/mnras/stad754](https://doi.org/10.1093/mnras/stad754).
