@@ -7,14 +7,14 @@ author_profile: true
 
 
 
-##### Representative Papers
+# Representative Papers
 
 1. Evolution of spin period and magnetic field of the Crab pulsar: decay of the braking index by the particle wind flow torque, Universe, 8(12), 628. [doi:10.3390/universe8120628](https://www.mdpi.com/2218-1997/8/12/628).
 2. Fast radio bursts: do repeaters and non-repeaters originate in statistically similar ensembles?, Monthly Notices of the Royal Astronomical Society, 500, 3275. [doi:10.1093/mnras/staa3351](https://doi.org/10.1093/mnras/staa3351).
 
 
 
-##### First Author Articles
+## First Author Articles
 
 1. **2022**, **Xianghan Cui**, Chengmin Zhang, Di Li, Jianwei Zhang, Bo Peng, Weiwei Zhu, Richard Strom, Shuangqiang Wang, Na Wang, Qingdong Wu, Dehua Wang, Yiyan Yang, *Luminosity distribution of fast radio bursts from CHIME/FRB Catalog 1 by means of the updated Macquart relation*, Astrophysics and Space Science, 367, 66. [doi:10.1007/s10509-022-04093-y](https://link.springer.com/article/10.1007/s10509-022-04093-y).
 2. **2021**, **Xianghan Cui**, Chengmin Zhang, Di Li, Jianwei Zhang, Bo Peng, Weiwei Zhu, Qingdong Wu, Shuangqiang Wang, Na Wang, Dehua Wang, Yiyan Yang, Zhenqi Diao, Changqing Ye, and Hsiangkuang Chang, *Statistical tests of young radio pulsars with/without supernova remnants: implying two origins of neutron stars*, Monthly Notices of the Royal Astronomical Society, 508, 279. [doi:10.1093/mnras/stab2498](https://doi.org/10.1093/mnras/stab2498).
