@@ -7,12 +7,10 @@ author_profile: true
 
 
 
-## Representative Papers
+## Publication List
 
-1. Evolution of spin period and magnetic field of the Crab pulsar: decay of the braking index by the particle wind flow torque, Universe, 8(12), 628. [doi:10.3390/universe8120628](https://www.mdpi.com/2218-1997/8/12/628).
-2. Fast radio bursts: do repeaters and non-repeaters originate in statistically similar ensembles?, Monthly Notices of the Royal Astronomical Society, 500, 3275. [doi:10.1093/mnras/staa3351](https://doi.org/10.1093/mnras/staa3351).
-
-
+- On [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-6165-0977&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+- All papers on [Google Scholar](https://scholar.google.com.hk/citations?user=10lxAw4AAAAJ&hl=zh-CN&authuser=1)
 
 ## First Author Articles
 
