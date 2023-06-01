@@ -20,4 +20,4 @@ I'm a second-year PhD student in astrophysics at National Astronomical Observato
 
 cuixianghan@nao.cas.cn
 
-https://orcid.org/0000-0002-6165-0977
+[https://orcid.org/0000-0002-6165-0977](https://orcid.org/0000-0002-6165-0977)
