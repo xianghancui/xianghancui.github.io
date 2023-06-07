@@ -11,5 +11,4 @@ redirect_from:
 
 
 
-Skills
-======
+My full CV [CV-CXH.pdf](../files/CV-CXH.pdf) 
