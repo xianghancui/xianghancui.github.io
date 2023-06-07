@@ -5,6 +5,8 @@ permalink: /about me/
 author_profile: true
 ---
 
+{% include base_path %}
+
 ----
 
 ## Education Background

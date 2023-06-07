@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+{% include base_path %}
+
 ----
 
 ## Fast Radio Burst
