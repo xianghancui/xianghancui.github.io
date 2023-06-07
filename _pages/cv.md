@@ -9,6 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+----
 
+### Contant 
 
-My full CV [CV-CXH.pdf](../files/CV-CXH.pdf) 
+- Basic information
+- Education 
+- Research Interests
+- Selected Awards
+- Experience
+- Publications
+
+ [My full CV](../files/CV_cxh.pdf) (Last updated: May 2023)
