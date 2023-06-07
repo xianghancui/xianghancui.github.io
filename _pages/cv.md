@@ -11,7 +11,7 @@ redirect_from:
 
 ----
 
-### Contant 
+## **Contents**
 
 - Basic information
 - Education 
