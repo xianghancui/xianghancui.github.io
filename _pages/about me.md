@@ -34,4 +34,14 @@ author_profile: true
 
 ### Professional Service
 
-- 2022-present, Referee for MNRAS
+- 2022 Referee for MNRAS
+
+### Talks
+
+- 2023.07 Scientific Program of FAST/Future Pulsar Symposium 12 (FPS 12), Henan, Nanyang
+
+  Multiple Origins of Normal Radio Pulsars? - Some Implications from Statistical Results
+
+- 2023.07 Wuhan University of Technology Department of physics Invited Talk, Hubei, Wuhan
+
+  Statistical Analysis and Mechanism Research of Fast Radio Burst
