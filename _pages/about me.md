@@ -19,6 +19,7 @@ author_profile: true
 
 ## Awards
 
+- 2023.07 Scholarship of China Scholarship Council
 - 2022.11 Scholarship of the Chinese Astronomical Society
 - 2021.11 ACAMAR 7: People’s Choice Poster Award
 - 2021.10 National Scholarship (for Ph.D. students)
