@@ -20,4 +20,4 @@ redirect_from:
 - Experience
 - Publications
 
- [My full CV](../files/CV_cxh.pdf) (Last updated: May 2023)
+ [My full CV](../files/CV_cxh.pdf) (Last updated: August 2023)
