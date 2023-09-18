@@ -29,7 +29,7 @@ Our model is constructed within the framework of coherent curvature radiation an
 
 <img src="https://xianghancui.github.io/images/model.png" alt="camp-lightning"/>
 
- 
+
 
 ----
 
