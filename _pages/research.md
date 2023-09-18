@@ -49,6 +49,6 @@ The magnetic dipole radiation (MDR) model is widely discussed and applied to the
 
 Our evolutionary model, which combined the [MDR and particle outflow wind](https://ui.adsabs.harvard.edu/abs/2022Univ....8..628Z/abstract), provided an analysis of this problem and offered precise analytical solutions to address it. By applying this model to the Crab pulsar, we have arrived at three conclusions: (1) the initial period of the Crab pulsar is approximately 18.3 ms; (2) secondly, its characteristic magnetic field (also called $P \dot P$ magnetic field) increases as it evolves when we assumed that the real magnetic doesn't change; (3) there is an upper limit to the characteristic age, which is around 10k years.
 
-<img src="https://xianghancui.github.io/images/P-Pdot.png" alt="camp-lightning" style="zoom: 50%;" />
+<img src="https://xianghancui.github.io/images/P-Pdot.png" alt="camp-lightning" style="zoom: 40%;" />
 
 The most intriguing conclusions were the last two regarding the characteristic magnetic field and characteristic age. This implied that we cannot solely rely on the characteristic magnetic field to determine if a magnetar has an ultra-strong magnetic field, and additional evidence such as high-energy bursts and other indicators is needed for confirmation. Meanwhile, it further indicated that the characteristic age cannot represent the true age of the pulsar.
