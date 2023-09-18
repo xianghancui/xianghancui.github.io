@@ -35,6 +35,20 @@ Our [compressed bunch model](https://ui.adsabs.harvard.edu/abs/2023arXiv23081025
 
 ## Pulsar
 
+Pulsars, which are believed to be rapidly rotating neutron stars, have indeed been discovered for over half a century since 1976. Despite extensive research over the years, the population distribution of pulsars and the evolution of magnetic field and spin period still remain subjects of great interest.
+
 ### Statistical Analysis
 
+In our statistical work, we analyzed the period and characteristic magnetic field distributions of  [young normal radio pulsars](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508..279C/abstract). We then classified the data into two categories based on whether they contained supernova remnants: those with remnants and those without. We found that they have different statistical distributions, which may suggest that they have different birth processes.
+
+Moreover, based on the spin-down age, we compared the cumulative number distribution curves of the two categories and found that they diverge around 10k to 15 years for different braking indices. This indicates that the lifetime boundary between the two types of SNRs is approximately 10k to 15k years. Subsequently, we also conducted an analysis of the progenitor star properties based on the initial mass function. These results further support the hypothesis of multiple origins for pulsars and provide quantitative statistical analysis to substantiate it.
+
 ### Evolution Model
+
+The magnetic dipole radiation (MDR) model is widely discussed and applied for the evolution of pulsars. However, the MDR for pulsar evolution has its challenges. One of the most prominent issues is that the model predicts a braking index of 3, yet no pulsar has a precisely measured braking index of 3, and they all fall within a range between 1 and 3. This discrepancy between theory and observation is a topic of ongoing research and debate in the field of pulsar astronomy.
+
+Our evolutionary model, which combines the [MDR and particle outflow wind](https://ui.adsabs.harvard.edu/abs/2022Univ....8..628Z/abstract), provides an analysis of this problem and offers precise analytical solutions to address it. By applying this model to the Crab pulsar, we have arrived at three conclusions: (1) the initial period of the Crab pulsar is approximately 18.3 ms; (2) secondly, its characteristic magnetic field (also called $P \dot P$ magnetic field) increases as it evolves when we assumed that the real magnetic doesn't change; (3) there is an upper limit to the characteristic age, which is around 10k years.
+
+<img src="https://xianghancui.github.io/images/P-Pdot.png" alt="camp-lightning"/>
+
+The most intriguing conclusions are the last two regarding the characteristic magnetic field and characteristic age. This implies that we cannot solely rely on the characteristic magnetic field to determine if a magnetar has an ultra-strong magnetic field, and additional evidence such as high-energy bursts and other indicators is needed for confirmation. Meanwhile, it further indicates that the characteristic age cannot represent the true age of the pulsar.
