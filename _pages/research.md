@@ -27,7 +27,7 @@ The mechanism of FRBs is another significant question in this field. Currently, 
 
 Our model is constructed within the framework of coherent curvature radiation and magnetized neutron stars. In these kind models, it is generally believed that coherent curvature radiation is produced by bunches moving along curved magnetic field lines, and the generation of these bunches is one of the fundamental issues in such models. Therefore, the core of our model focuses on how these bunches are formed before the emission of FRBs. Here, we propose a new approach that outflowing particles undergo an energy loss process dominated by Inverse Compton Scattering. This process leads to a compression effect in the particle flow (imagine a toll booth on a high-speed highway), which could potentially facilitate the formation of bunches.
 
-<img src="https://xianghancui.github.io/images/model.png" alt="camp-lightning" style="zoom: 10%;" />
+<img src="https://xianghancui.github.io/images/model.png" alt="camp-lightning"/>
 
  
 
