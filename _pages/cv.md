@@ -16,8 +16,8 @@ redirect_from:
 - Basic information
 - Education 
 - Research Interests
-- Selected Awards
+- Awards
 - Experience
 - Publications
 
- [My full CV](../files/CV_cxh.pdf) (Last updated: August 2023)
+ [My full CV](../files/CV_cxh.pdf) (Last updated: September 2023)
