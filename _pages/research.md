@@ -25,11 +25,11 @@ Later, we conducted a statistical analysis of the [isotropic luminosity distribu
 
 The mechanism of FRBs is another significant question in this field. Currently, there are numerous models, such as propagation mechanism models and radiation mechanism models, proposed to explain FRBs. Here, we are particularly interested in how FRBs emit radiation. While there is still some disagreement regarding this issue like inside or outside the magnetosphere, coherent radiation is generally acknowledged as a key aspect of FRB emission. Therefore, we built our model with this perspective.
 
-Our [compressed bunch model](https://ui.adsabs.harvard.edu/abs/2023arXiv230810258C/abstract) is constructed within the framework of coherent curvature radiation and magnetized neutron stars. In these kind models, it is generally believed that coherent curvature radiation is produced by bunches moving along curved magnetic field lines, and the generation of these bunches is one of the fundamental issues in such models. Therefore, the core of our model focuses on how these bunches are formed before the emission of FRBs. Here, we propose a new approach that outflowing particles undergo an energy loss process dominated by Inverse Compton Scattering. This process leads to a compression effect in the particle flow (imagine a toll booth on a high-speed highway), which could potentially facilitate the formation of bunches.
+Our [compressed bunch model](https://ui.adsabs.harvard.edu/abs/2023arXiv230810258C/abstract) is constructed within the framework of coherent curvature radiation and magnetized neutron stars. In these kind of models, it is generally believed that coherent curvature radiation is produced by bunches moving along curved magnetic field lines, and the generation of these bunches is one of the fundamental issues in such models. Therefore, the core of our model focuses on how these bunches are formed before the emission of FRBs. Here, we propose a new approach (different with two-stream instability) that outflowing particles undergo an energy loss process dominated by inverse Compton scattering. This process leads to a compression effect in the particle flow (imagine a toll booth on a high-speed highway), which could potentially facilitate the formation of bunches.
 
 <img src="https://xianghancui.github.io/images/model.png" alt="camp-lightning"/>
 
-
+In our model, we have divided the entire FRB radiation process into three parts: the trigger region, the outflow region, and the FRB emission region. The outflow part is where the compression effect, i.e., the formation of bunches, is more pronounced. This model provides a comprehensive physical picture of the FRB radiation process.
 
 ----
 
