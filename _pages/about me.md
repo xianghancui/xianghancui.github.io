@@ -33,7 +33,7 @@ author_profile: true
 
 ### Teaching
 
-- Teaching assistant for graduate course at UCAS: *High Energy Astrophysics and Gravitational Wave* (070200M02048H), Prof. Chengmin Zhang, 2021 & 2022
+- Teaching assistant for graduate course at UCAS: *High Energy Astrophysics and Gravitational Wave* (070200M02048H), Prof. Chengmin Zhang, 2021-2023
 
 ### Professional Service
 
