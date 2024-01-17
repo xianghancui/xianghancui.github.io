@@ -41,6 +41,10 @@ author_profile: true
 
 ### Talks
 
+- 2023.09, Interstellar Medium and Star Formation Science Forum 2023, Hubei, Wuhan
+
+  Compressed bunch model for fast radio burst coherent curvature radiation
+
 - 2023.07 Scientific Program of FAST/Future Pulsar Symposium 12 (FPS 12), Henan, Nanyang
 
   Multiple Origins of Normal Radio Pulsars? - Some Implications from Statistical Results
