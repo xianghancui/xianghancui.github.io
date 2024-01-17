@@ -41,7 +41,7 @@ author_profile: true
 
 ### Talks
 
-- 2023.09, Interstellar Medium and Star Formation Science Forum 2023, Hubei, Wuhan
+- 2023.09 Interstellar Medium and Star Formation Science Forum 2023, Hubei, Wuhan
 
   Compressed bunch model for fast radio burst coherent curvature radiation
 
