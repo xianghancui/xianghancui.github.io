@@ -43,7 +43,7 @@ author_profile: true
 
 - 2023.09 Interstellar Medium and Star Formation Science Forum 2023, Hubei, Wuhan
 
-  Compressed bunch model for fast radio burst coherent curvature radiation
+  Compressed Bunch Model for Fast Radio Burst Coherent Curvature Radiation
 
 - 2023.07 Scientific Program of FAST/Future Pulsar Symposium 12 (FPS 12), Henan, Nanyang
 
@@ -51,4 +51,4 @@ author_profile: true
 
 - 2023.07 Wuhan University of Technology Department of physics Invited Talk, Hubei, Wuhan
 
-  Statistical Analysis and Mechanism Research of Fast Radio Burst
+  Statistical Analysis and Mechanism Research of Fast Radio Bursts
