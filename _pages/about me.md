@@ -41,14 +41,26 @@ author_profile: true
 
 ### Talks
 
-- 2023.09 Interstellar Medium and Star Formation Science Forum 2023, Hubei, Wuhan
+- 2024.06 Astronomical Society of Australia Annual Scientific Meeting 2024 Perth Hub, Perth, Australia
+
+  Intrinsic Spectral Properties of CHIME Fast Radio Bursts: A Comprehensive Statistical Model by Using Injections
+
+- 2024.06 Chinese Fast Radio Burst 2024, Wuhan, China
+
+  Fast radio burst mechanism and possible precursor emissions
+
+- 2024.02 East Asian Young Astronomers Meeting 2024, Chiang Mai, Thailand
+
+  Radiation Mechanism of Fast Radio Bursts: Compressed Bunch Model
+
+- 2023.09 Interstellar Medium and Star Formation Science Forum 2023, Wuhan, China
 
   Compressed Bunch Model for Fast Radio Burst Coherent Curvature Radiation
 
-- 2023.07 Scientific Program of FAST/Future Pulsar Symposium 12 (FPS 12), Henan, Nanyang
+- 2023.07 Scientific Program of FAST/Future Pulsar Symposium 12 (FPS 12), Nanyang, China
 
   Multiple Origins of Normal Radio Pulsars? - Some Implications from Statistical Results
 
-- 2023.07 Wuhan University of Technology Department of physics Invited Talk, Hubei, Wuhan
+- 2023.07 Wuhan University of Technology Department of physics Invited Talk, Wuhan, China
 
   Statistical Analysis and Mechanism Research of Fast Radio Bursts

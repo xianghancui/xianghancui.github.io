@@ -24,3 +24,12 @@ author_profile: true
 6. **2019**, **Xianghan Cui**, Chaolin Wang, and Xinting Jia, *Nonparaxial propagation of vector vortex beams diffracted by a circular aperture*, Journal of the Optical Society of America A, 36, 115-123. [doi: 10.1364/josaa.36.000115](https://doi.org/10.1364/josaa.36.000115).
 
 
+
+## Collaborative Articles
+
+1. **2023**, Yuhao Zhu, Chenhui Niu, **Xianghan Cui** et al., *Do Multi-Structural One-Off FRBs Trace Similar Cosmology History with Repeaters?*, Universe, 9(6), 251, [doi: 10.3390/universe9060251](https://doi.org/10.3390/universe9060251).
+2. **2023**, Yangyi Yang, Chengmin Zhang, Di Li, L Chen, Jianwei Zhang, Dehua Wang, L-Y Jiang, **Xianghan Cui**, *Investigating the distribution of double neutron stars and unconventional component mass*, Monthly Notices of the Royal Astronomical Society, 521, 4669–4678, [doi: 10.1093/mnras/stad754](https://doi.org/10.1093/mnras/stad754).
+3. **2022**, Chengmin Zhang, **Xianghan Cui**, Li Di, et al., *Evolution of spin period and magnetic field of the Crab pulsar: decay of the braking index by the particle wind flow torque*, Universe, 8(12), 628, [doi: 10.3390/universe8120628](https://www.mdpi.com/2218-1997/8/12/628).
+4. **2022**, Jianwei Zhang, Chengmin Zhang, Di Li, Wuming Yang, **Xianghan Cui**, et al., *Revisiting the Magnetic Field Distribution of Normal Pulsars: Implications for the Multiple Origins for Neutron Stars*, Publications of the Astronomical Society of the Pacific, [doi: 10.1088/1538-3873/ac9ad8](https://iopscience.iop.org/article/10.1088/1538-3873/ac9ad8).
+5. **2021**, Jianwei Zhang, Chengmin Zhang, Di Li, Wuming Yang, **Xianghan Cui**, et al., *Gaussian mixture models of the total mass distribution of stellar black holes from LIGO-Virgo GWTC-2: Implications on the origin of GW190521*, Physical Review D, 104, 103010. [doi: 10.1103/PhysRevD.104.103010](https://doi.org/10.1103/PhysRevD.104.103010).
+6. **2021**, Jianwei Zhang, Chengmin Zhang, Di Li, **Xianghan Cui**, et al., *Simulation of the gravitational wave frequency distribution of neutron star-black hole mergers*, 2021, Chinese Physics B, 30, 120401. [doi: 10.1088/1674-1056/abff28](https://doi.org/10.1088/1674-1056/abff28).
