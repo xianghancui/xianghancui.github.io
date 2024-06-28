@@ -20,6 +20,7 @@ author_profile: true
 
 ## Awards
 
+- 2024.05 UCAS Outstanding Student
 - 2023.10 Zhu Li Yuehua Outstanding Doctoral Scholarship (CAS)
 - 2023.07 Scholarship of China Scholarship Council (CSC)
 - 2022.11 Scholarship of the Chinese Astronomical Society
@@ -45,7 +46,7 @@ author_profile: true
 
   Intrinsic Spectral Properties of CHIME Fast Radio Bursts: A Comprehensive Statistical Model by Using Injections
 
-- 2024.06 Chinese Fast Radio Burst 2024, Wuhan, China
+- 2024.06 Chinese Fast Radio Burst Conference 2024, Wuhan, China
 
   Fast radio burst mechanism and possible precursor emissions
 
