@@ -16,7 +16,7 @@ Recently, I am focusing on the CHIME/FRB data and analyzing the population chara
 
 <img src="https://xianghancui.github.io/images/camp-lightning.jpeg" alt="camp-lightning" style="zoom: 30%;" />
 
-<font size="1">Note: This photo was taken during a hiking⛺️ in the mountains of Beijing. FRBs are just like the lightning behind these clouds—bright, mysterious, but full of hidden information.</font>
+<font size="2">Note: This photo was taken during a hiking⛺️ in the mountains of Beijing. FRBs are just like the lightning behind these clouds—bright, mysterious, but full of hidden information.</font>
 
 
 
