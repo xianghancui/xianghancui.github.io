@@ -15,7 +15,7 @@ Statistical analysis is one of the important methods to uncover the mysteries of
 
 ## Fast Radio Burst
 
-Fast radio bursts (FRBs) may be one of the most important and unique discoveries in the field of radio astronomy in the past decade or so. Its significance lies in the huge burst luminosity (isotropic), remote distances, and brief flashes. Its uniqueness lies in the fact that, to this day, we still do not know where they originate from and the potential inspiration they may provide for new physics. In such a process, the aspects that interest me are statistical research and the physical mechanisms involved.
+Fast radio bursts (FRBs) might be one of the most important discoveries in radio astronomy in the past decade or so. Their uniqueness is reflected in their short duration, cosmological distance, and enormous isotropic energy bursts. The mystery lies in the fact that we still do not know the exact origin and  mechanism of FRBs and their populations. This provides us with a great opportunity to develop new methods to uncover parts of the unknown universe. These aspects have strongly interested me in using statistical and theoretical methods to explain the origin and mechanisms of FRBs.
 
 ### Statistical Analysis
 
