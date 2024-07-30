@@ -9,6 +9,10 @@ author_profile: true
 
 ----
 
+## Recent Works
+
+Statistical analysis is one of the important methods to uncover the mysteries of Fast radio bursts (FRBs). Statistical completeness is one of the core issues to ensuring the reasonable results and their physical interpretations. In recent work, we built a statistical model considering the correlation between various FRB properties, as well as selection and beam effects, based on the first CHIME/FRB catalog and its injection system.  By taking the multi-dimensional parameters into the model for calculation, we can obtain the multi-weight function. Then, the intrinsic distribution of each property can be determined with the multi-weights, and the FRB spectra are further calculated. Based on the intrinsic distributions from CHIME, we can compare them with ASKAP and FAST data to analyze their similarities and differences. More information is coming...
+
 ## Fast Radio Burst
 
 Fast radio bursts (FRBs) may be one of the most important and unique discoveries in the field of radio astronomy in the past decade or so. Its significance lies in the huge burst luminosity (isotropic), remote distances, and brief flashes. Its uniqueness lies in the fact that, to this day, we still do not know where they originate from and the potential inspiration they may provide for new physics. In such a process, the aspects that interest me are statistical research and the physical mechanisms involved.
