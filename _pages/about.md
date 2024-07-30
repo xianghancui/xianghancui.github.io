@@ -8,16 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Xianghan Cui (崔翔翰), welcome to my research homepage. 
+Hi! This is Xianghan Cui (崔翔翰), welcome to my research homepage. 
 
-I'm a third-year PhD student in astrophysics from the National Astronomical Observatories, Chinese Academy of Sciences ([NAOC](http://english.nao.cas.cn)), advised by [Di Li](http://groups.bao.ac.cn/ism/english/chiefscientist/202204/t20220415_695884.html) and [Chengmin Zhang](https://people.ucas.ac.cn/~zhangcm?language=en).  Recently, I'm researching at the International Centre for Radio Astronomy Research ([ICRAR](https://www.icrar.org))/Curtin Institute of Radio Astronomy ([CIRA](https://astronomy.curtin.edu.au)) for one-year visiting PhD project, supervised by [Clancy James](https://staffportal.curtin.edu.au/staff/profile/view/clancy-james-9504b0ca/). My main interests are in fast radio bursts (FRB) and pulsars, but I'm curious about everything in the universe.
+I'm a third-year PhD student in astrophysics from the National Astronomical Observatories, Chinese Academy of Sciences, advised by [Di Li](http://groups.bao.ac.cn/ism/english/chiefscientist/202204/t20220415_695884.html) and [Chengmin Zhang](https://people.ucas.ac.cn/~zhangcm?language=en).  Recently, I'm researching at the International Centre for Radio Astronomy Research/Curtin Institute of Radio Astronomy for one-year visiting PhD project, supervised by [Clancy James](https://staffportal.curtin.edu.au/staff/profile/view/clancy-james-9504b0ca/). My main interests are in fast radio bursts (FRB) and pulsars, but I'm curious about everything in the universe.
+
+Recently, I am focusing on the CHIME/FRB data and analyzing the population characteristics of FRBs using highly comprehensive statistical methods.
 
 <img src="https://xianghancui.github.io/images/camp-lightning.jpeg" alt="camp-lightning" style="zoom: 30%;" />
+
+<font size="1">Note: This photo was taken during a hiking⛺️ in the mountains of Beijing. FRBs are just like the lightning behind these clouds—bright, brief, and mysterious.</font>
 
 
 
 ## Find Me
 
 cuixianghan@nao.cas.cn
+
+xianghan.cui@curtin.edu.au
 
 [https://orcid.org/0000-0002-6165-0977](https://orcid.org/0000-0002-6165-0977)
