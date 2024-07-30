@@ -13,9 +13,9 @@ author_profile: true
 
 Fast radio bursts (FRBs) might be one of the most important discoveries in radio astronomy in the past decade or so. Their uniqueness is reflected in their short duration, cosmological distance, and enormous isotropic energy bursts. The mystery lies in the fact that we still do not know the exact origin and  mechanism of FRBs and their populations. This provides us with a great opportunity to develop new methods to uncover parts of the unknown universe. These aspects have strongly interested me in using statistical and theoretical methods to explain the origin and mechanisms of FRBs.
 
-### Recent Works
+### Recent Work
 
-Statistical analysis is one of the important methods to uncover the mysteries of Fast radio bursts (FRBs). Statistical completeness is one of the core issues to ensuring the reasonable results and their physical interpretations. In recent work, we built a statistical model considering the correlation between various FRB properties, as well as selection and beam effects, based on the first CHIME/FRB catalog and its injection system.  By taking the multi-dimensional parameters into the model for calculation, we can obtain the multi-weight function. Then, the intrinsic distribution of each property can be determined with the multi-weights, and the FRB spectra are further calculated. Based on the intrinsic distributions from CHIME, we can compare them with ASKAP and FAST data to analyze their similarities and differences. More information is coming...
+Statistical analysis is one of the key methods to uncover the mysteries of FRBs. Ensuring statistical completeness is essential for achieving reasonable results and their physical interpretations. In a recent work, we built a statistical model that considers the correlation between various FRB properties, as well as selection and beam effects, based on the first CHIME/FRB catalog and its injection system. By taking multi-dimensional parameters into the model, we can obtain a multi-weight function. Then, the intrinsic distribution of each property can be determined using these multi-weights, and the FRB spectra are further re-weighted. According to the intrinsic distributions from CHIME, we can compare them with ASKAP and FAST data to analyze their similarities and differences. More results are coming…
 
 ### Statistical Analysis
 
