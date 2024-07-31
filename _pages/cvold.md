@@ -1,9 +1,8 @@
 ---
 layout: archive
 title: "Curriculum Vitae"
-excerpt: "This is a page not in th emain menu"
 permalink: /cv/
-author_profile: false
+author_profile: true
 redirect_from:
   - /resume
 ---
