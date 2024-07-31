@@ -9,6 +9,8 @@ author_profile: true
 
 ----
 
+ [My full CV](../files/CV_cxh.pdf) (Last updated: July 2024)
+
 ## Education Background
 
 - 2023.12-present International Centre for Radio Astronomy Research (ICRAR)/Curtin Institute of Radio Astronomy (CIRA), Radio Astronomy, visiting Ph.D. student
