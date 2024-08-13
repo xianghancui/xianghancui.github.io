@@ -9,7 +9,7 @@ author_profile: true
 
 ----
 
- [My full CV](../files/CV_cxh.pdf) (Last updated: July 2024)
+ [My full CV](../files/CV_cxh.pdf) (Last updated: August 2024)
 
 ## Education Background
 
@@ -22,12 +22,14 @@ author_profile: true
 
 ## Awards
 
-- 2024.07, President Award (Excellent Prize) of Chinese Academy of Sciences
+- 2024.07, Presidential Scholarship (Excellent Prize) of Chinese Academy of Sciences
+- 2024.05, Outstanding Student of UCAS
 - 2023.10 Zhu Li Yuehua Outstanding Doctoral Scholarship (CAS)
 - 2023.07 Scholarship of China Scholarship Council (CSC)
 - 2022.11 Scholarship of the Chinese Astronomical Society
 - 2021.11 ACAMAR 7: People’s Choice Poster Award
 - 2021.10 National Scholarship (for Ph.D. students)
+- 2020.05, Merit Student of UCAS
 
 
 
