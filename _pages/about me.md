@@ -9,7 +9,7 @@ author_profile: true
 
 ----
 
- [My full CV](../files/CV_cxh.pdf) (Last updated: August 2024)
+ [My full CV](../files/CV_cxh.pdf) (Last updated: September 2024)
 
 ## Education Background
 
