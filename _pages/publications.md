@@ -11,7 +11,7 @@ author_profile: true
 
 ## Publication List
 
-- On [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-6165-0977&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+- All papers on [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-6165-0977&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 - All papers on [Google Scholar](https://scholar.google.com.hk/citations?user=10lxAw4AAAAJ&hl=zh-CN&authuser=1)
 
 ## First Author Articles
@@ -22,5 +22,4 @@ author_profile: true
 4. **2021**, **Xianghan Cui**, Chengmin Zhang, Shuangqiang Wang, Jianwei Zhang, Di Li, Bo Peng, Weiwei Zhu, Richard Strom, Na Wang, Qingdong Wu, Changqing Ye, Dehua Wang, Yiyan Yang, and Zhenqi Diao, *Statistical properties of fast radio bursts elucidate their origins: magnetars are favored over gamma-ray bursts*, Research in Astronomy and Astrophysics, 21, 211. [doi: 10.1088/1674-4527/21/8/211](https://doi.org/10.1088/1674-4527/21/8/211).
 5. **2020**, **Xianghan Cui**, Chengmin Zhang, Shuangqiang Wang, Jianwei Zhang, Di Li, Bo Peng, Weiwei Zhu, Na Wang, Richard Strom, Changqing Ye, Dehua Wang, and Yiyan Yang, *Fast radio bursts: do repeaters and non-repeaters originate in statistically similar ensembles?*, Monthly Notices of the Royal Astronomical Society, 500, 3275. [doi: 10.1093/mnras/staa3351](https://doi.org/10.1093/mnras/staa3351).
 6. **2019**, **Xianghan Cui**, Chaolin Wang, and Xinting Jia, *Nonparaxial propagation of vector vortex beams diffracted by a circular aperture*, Journal of the Optical Society of America A, 36, 115-123. [doi: 10.1364/josaa.36.000115](https://doi.org/10.1364/josaa.36.000115).
-
 
