@@ -82,5 +82,51 @@ author_profile: true
 
 ### ASKAP and MWA
 
+<div style="text-align: center;">
+    <img src="https://xianghancui.github.io/images/photos/ASKAP1.jpeg" alt="ASKAP1" style="zoom: 100%;" />
+</div>
 
+
+
+<div style="text-align: center;">
+    <img src="https://xianghancui.github.io/images/photos/ASKAP1.jpeg" alt="ASKAP1" style="zoom: 100%;" />
+</div>
+
+
+
+<div style="text-align: center;">
+    <img src="https://xianghancui.github.io/images/photos/ASKAP2.jpeg" alt="ASKAP2" style="zoom: 100%;" />
+</div>
+
+
+
+<div style="text-align: center;">
+    <img src="https://xianghancui.github.io/images/photos/ASKAP3.jpeg" alt="ASKAP3" style="zoom: 100%;" />
+</div>
+
+
+
+<div style="text-align: center;">
+    <img src="https://xianghancui.github.io/images/photos/ASKAP4.jpeg" alt="ASKAP4" style="zoom: 100%;" />
+</div>
+
+
+
+<div style="text-align: center;">
+    <img src="https://xianghancui.github.io/images/photos/ASKAP5.jpeg" alt="ASKAP5" style="zoom: 100%;" />
+</div>
+
+
+
+
+
+<div style="text-align: center;">
+    <img src="https://xianghancui.github.io/images/photos/MWA1.jpeg" alt="MWA1" style="zoom: 100%;" />
+</div>
+
+
+
+<div style="text-align: center;">
+    <img src="https://xianghancui.github.io/images/photos/MWA2.jpeg" alt="MWA2" style="zoom: 100%;" />
+</div>
 
