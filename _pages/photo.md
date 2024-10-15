@@ -1,0 +1,22 @@
+---
+layout: archive
+title: "About Me"
+permalink: /about me/
+author_profile: true
+---
+
+{% include base_path %}
+
+----
+
+## Photos and Records
+
+#### 2024
+
+###### 2024.10 Visiting ASKAP, MWA, and SKA-Low
+
+<img src="/Users/cuixianghan/Library/Application Support/typora-user-images/image-20241015115926850.png" alt="image-20241015115926850" style="zoom: 33%;" />
+
+###### 2024.10 Radio School
+
+<img src="/Users/cuixianghan/Pictures/Xianghan/IMG_6105.jpg" alt="IMG_6105" style="zoom:33%;" />
