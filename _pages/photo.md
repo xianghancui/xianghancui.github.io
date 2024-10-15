@@ -17,7 +17,7 @@ author_profile: true
 
 ### 2024
 
-###### 2024.10 Visiting ASKAP, MWA, and SKA-Low, Murchison, Australia
+###### 2024.10 Visiting ASKAP, MWA, and SKA-Low, Murchison, Australia, [see more](https://xianghancui.github.io/morephotos/)
 
 <div style="text-align: center;">
     <img src="https://xianghancui.github.io/images/photos/2024SKA.png" alt="2024SKA" style="zoom: 30%;" />
