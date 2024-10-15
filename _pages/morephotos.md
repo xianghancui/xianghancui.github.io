@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "Gallery"
 permalink: /morephotos/
 author_profile: true
 ---
