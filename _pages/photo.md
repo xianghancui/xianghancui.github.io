@@ -1,9 +1,15 @@
 ---
 layout: archive
-title: "About Me"
-permalink: /about me/
+title: "Photos and Records"
+permalink: /photos/
 author_profile: true
+
+# Photos and Records
 ---
+
+
+
+
 
 {% include base_path %}
 
