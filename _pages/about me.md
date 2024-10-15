@@ -9,7 +9,7 @@ author_profile: true
 
 ----
 
- [My full CV](../files/CV_cxh.pdf) (Last updated: September 2024)
+ [My full CV](../files/CV_cxh.pdf) (Last updated: October 2024)
 
 ## Education Background
 
@@ -20,28 +20,13 @@ author_profile: true
 
 
 
-## Awards
-
-- 2024.07, Presidential Scholarship (Excellent Prize) of Chinese Academy of Sciences
-- 2024.05, Outstanding Student of UCAS
-- 2023.10 Zhu Li Yuehua Outstanding Doctoral Scholarship (CAS)
-- 2023.07 Scholarship of China Scholarship Council (CSC)
-- 2022.11 Scholarship of the Chinese Astronomical Society
-- 2021.11 ACAMAR 7: People’s Choice Poster Award
-- 2021.10 National Scholarship (for Ph.D. students)
-- 2020.05, Merit Student of UCAS
-
-
-
 ## Experience
 
-### Teaching
 
-- Teaching assistant for graduate course at UCAS: *High Energy Astrophysics and Gravitational Wave* (070200M02048H), Prof. Chengmin Zhang, 2021-2023
 
-### Professional Service
+### Scientific Activities
 
-- 2022 Referee for MNRAS
+- 2024.10 Radio School 2024, Geraldton, Australia
 
 ### Talks
 
@@ -68,3 +53,22 @@ author_profile: true
 - 2023.07 Wuhan University of Technology Department of physics Invited Talk, Wuhan, China
 
   Statistical Analysis and Mechanism Research of Fast Radio Bursts
+
+### Teaching
+
+- Teaching assistant for graduate course at UCAS: *High Energy Astrophysics and Gravitational Wave* (070200M02048H), Prof. Chengmin Zhang, 2021-2023
+
+### Professional Service
+
+- 2022 Referee for MNRAS
+
+## Awards
+
+- 2024.07, Presidential Scholarship (Excellent Prize) of Chinese Academy of Sciences
+- 2024.05, Outstanding Student of UCAS
+- 2023.10 Zhu Li Yuehua Outstanding Doctoral Scholarship (CAS)
+- 2023.07 Scholarship of China Scholarship Council (CSC)
+- 2022.11 Scholarship of the Chinese Astronomical Society
+- 2021.11 ACAMAR 7: People’s Choice Poster Award
+- 2021.10 National Scholarship (for Ph.D. students)
+- 2020.05, Merit Student of UCAS
