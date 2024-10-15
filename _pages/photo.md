@@ -41,6 +41,24 @@ author_profile: true
 
 
 
-###### 2023.12 ICRAR/CIRA, Perth, Australia
+###### 2024.01 ICRAR/CIRA, visiting PhD student, Perth, Australia
 
 <img src="https://xianghancui.github.io/images/photos/2024CIRA.png" alt="2024CIRA" style="zoom: 10%;" />
+
+
+
+2023.09 ISM Group Annual Meeting, Wuhan, China
+
+<img src="https://xianghancui.github.io/images/photos/2023ISM.JPG" alt="2023ISM" style="zoom: 10%;" />
+
+
+
+2023.07 Department of physics, Wuhan University of Technology, invited talk, Wuhan, China
+
+<img src="https://xianghancui.github.io/images/photos/2023WHUT.jpg" alt="2023WHUT" style="zoom: 10%;" />
+
+
+
+2023.07 Scientific Program of FAST/Future Pulsar Symposium 12, Nanyang, China
+
+<img src="https://xianghancui.github.io/images/photos/2023FPS.jpg" alt="2023FPS" style="zoom: 10%;" />
