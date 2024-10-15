@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Gallery"
-permalink: /morephotos/
+title: "Telescope Gallery"
+permalink: /gallery/
 author_profile: true
 ---
 
@@ -130,4 +130,4 @@ author_profile: true
 <div style="text-align: center;">
     <img src="https://xianghancui.github.io/images/photos/MWA2.jpeg" alt="MWA2" style="zoom: 100%;" />
 </div>
-
+ 
