@@ -155,3 +155,17 @@ author_profile: true
 <div style="text-align: center;">
     <img src="https://xianghancui.github.io/images/photos/yunnansun2.jpeg" alt="Yunnan_sun_2" style="zoom: 100%;" />
 </div>
+
+<br>
+
+## LAMOST (2018) [📍](https://www.google.com/maps/place/国家天文台兴隆站/@40.3944937,117.5745746,1251m/data=!3m1!1e3!4m10!1m2!2m1!1z5Lit5Zu95rKz5YyX55yB5om_5b635biC5YW06ZqG6ZmE6L-R55qE5aSp5paH5Y-w!3m6!1s0x35f474e30da1f9e3:0x65113ca8a208a179!8m2!3d40.395805!4d117.582509!15sCjDkuK3lm73msrPljJfnnIHmib_lvrfluILlhbTpmobpmYTov5HnmoTlpKnmloflj7DgAQA!16s%2Fg%2F1tfpg_kq?entry=ttu&g_ep=EgoyMDI0MTAwOS4wIKXMDSoASAFQAw%3D%3D)
+
+<div style="text-align: center;">
+    <img src="https://xianghancui.github.io/images/photos/LAMOST1.jpeg" alt="LAMOST1" style="zoom: 100%;" />
+</div>
+
+<br>
+
+<div style="text-align: center;">
+    <img src="https://xianghancui.github.io/images/photos/LAMOST2.jpeg" alt="LAMOST2" style="zoom: 100%;" />
+</div>
