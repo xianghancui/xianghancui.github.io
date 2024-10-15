@@ -19,8 +19,8 @@ author_profile: true
 
 ###### 2024.10 Visiting ASKAP, MWA, and SKA-Low, Western Australia, Australia
 
-<img src="/Users/cuixianghan/Library/Application Support/typora-user-images/image-20241015115926850.png" alt="image-20241015115926850" style="zoom: 33%;" />
+<img src="https://xianghancui.github.io/images/photos/2024SKA.png" alt="2024SKA" style="zoom: 30%;" />
 
 ###### 2024.10 Radio School 2024, Western Australia, Australia
 
-<img src="/Users/cuixianghan/Pictures/Xianghan/IMG_6105.jpg" alt="IMG_6105" style="zoom:33%;" />
+<img src="https://xianghancui.github.io/images/photos/2024radioschool.jpg" alt="2024radioschool" style="zoom: 30%;" />
