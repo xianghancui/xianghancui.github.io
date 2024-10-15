@@ -37,7 +37,7 @@ Multiple Origins of Normal Radio Pulsars? - Some Implications from Statistical R
 - 2023.07 Wuhan University of Technology Department of physics Invited Talk, Wuhan, China
 Statistical Analysis and Mechanism Research of Fast Radio Bursts
 - 2021.11 Australia-China Consortium for Astrophysical Research (ACAMAR) 7 meeting, online
-The hints to the origin of different log-normal luminosity distributions for repeating and non-repeating fast radio bursts (poster talk)
+The hints to the origin of different luminosity distributions for repeating and non-repeating fast radio bursts (poster talk)
 
 ### Scientific Activities
 
