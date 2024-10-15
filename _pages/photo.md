@@ -101,7 +101,7 @@ author_profile: true
 ###### 2018.08 NAOC Summer Camp, Beijing, China
 
 <div style="text-align: center;">
-    <img src="https://xianghancui.github.io/images/photos/2018NAOC.png" alt="2018NAOC" style="zoom: 50%;" />
+    <img src="https://xianghancui.github.io/images/photos/2018NAOC.png" alt="2018NAOC" style="zoom: 40%;" />
 </div>
 
 
