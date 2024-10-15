@@ -24,9 +24,9 @@ author_profile: true
 
 ### Talks
 
-- 2024.06 Astronomical Society of Australia Annual Scientific Meeting 2024 Perth Hub, Perth, Australia
+- 2024.06 Astronomical Society of Australia Annual Scientific Meeting 2024 Perth Hub, Perth, Australia \\
 Intrinsic Spectral Properties of CHIME Fast Radio Bursts: A Comprehensive Statistical Model by Using Injections
-- 2024.06 Chinese Fast Radio Burst Conference 2024, Wuhan, China
+- 2024.06 Chinese Fast Radio Burst Conference 2024, Wuhan, China \\
 Fast radio burst mechanism and possible precursor emissions
 - 2024.02 East Asian Young Astronomers Meeting 2024, Chiang Mai, Thailand
 Radiation Mechanism of Fast Radio Bursts: Compressed Bunch Model
