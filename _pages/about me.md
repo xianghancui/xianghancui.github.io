@@ -22,12 +22,6 @@ author_profile: true
 
 ## Experience
 
-
-
-### Scientific Activities
-
-- 2024.10 Radio School 2024, Geraldton, Australia
-
 ### Talks
 
 - 2024.06 Astronomical Society of Australia Annual Scientific Meeting 2024 Perth Hub, Perth, Australia
@@ -58,7 +52,11 @@ author_profile: true
 
   The hints to the origin of different log-normal luminosity distributions for repeating and non-repeating fast radio bursts (poster talk)
 
-### Teaching
+### Scientific Activities
+
+- 2024.10 Radio School 2024, Geraldton, Australia
+
+### Teaching Assistant
 
 - Teaching assistant for graduate course at UCAS: *High Energy Astrophysics and Gravitational Wave* (070200M02048H), Prof. Chengmin Zhang, 2021-2023
 
