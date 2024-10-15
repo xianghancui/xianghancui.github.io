@@ -19,7 +19,7 @@ author_profile: true
 
 ###### 2024.10 Visiting ASKAP, MWA, and SKA-Low, Murchison, Australia
 
-<img src="https://xianghancui.github.io/images/photos/2024SKA.png" alt="2024SKA" style="zoom: 30%;" />
+<img src="https://xianghancui.github.io/images/photos/2024SKA.png" alt="2024SKA" style="zoom: 50%;" />
 
 ###### 2024.10 Radio School 2024, Geraldton, Australia
 
