@@ -23,6 +23,6 @@ author_profile: true
 
 ###### 2024.10 Radio School 2024, Geraldton, Australia
 
-<img src="https://xianghancui.github.io/images/photos/2024radioschool.jpg" alt="2024radioschool" style="zoom: 30%;" />
+<img src="https://xianghancui.github.io/images/photos/2024radioschool.jpg" alt="2024radioschool" style="zoom: 10%;" />
 
 ###### 2024.06 Astronomical Society of Australia Annual Scientific Meeting 2024 Perth Hub, Perth, Australia
