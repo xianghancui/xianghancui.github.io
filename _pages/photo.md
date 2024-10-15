@@ -44,16 +44,18 @@ author_profile: true
 ###### 2024.02 East Asian Young Astronomers Meeting 2024, Chiang Mai, Thailand
 
 <div style="text-align: center;">
-    <img src="https://xianghancui.github.io/images/photos/2024thai.png" alt="2024thai" style="zoom: 20%;" />
+    <img src="https://xianghancui.github.io/images/photos/2024thai.png" alt="2024thai" style="zoom: 40%;" />
 </div>
+
 
 
 
 ###### 2024.01 ICRAR/CIRA, visiting PhD student, Perth, Australia
 
 <div style="text-align: center;">
-    <img src="https://xianghancui.github.io/images/photos/2024CIRA.png" alt="2024CIRA" style="zoom: 30%;" />
+    <img src="https://xianghancui.github.io/images/photos/2024CIRA.png" alt="2024CIRA" style="zoom: 40%;" />
 </div>
+
 
 
 
@@ -80,25 +82,23 @@ author_profile: true
 </div>
 
 
-
-2022.12 LAMOST, Xinglong, China
+###### 2022.12 LAMOST, Xinglong, China
 
 <div style="text-align: center;">
-    <img src="https://xianghancui.github.io/images/photos/2022LAMOST.png" alt="2022LAMOST" style="zoom: 50%;" />
+    <img src="https://xianghancui.github.io/images/photos/2022LAMOST.png" alt="2022LAMOST" style="zoom: 40%;" />
 </div>
 
 
 
-2021.08 FAST, Pingtang, China
+###### 2021.08 FAST, Pingtang, China
 
 <div style="text-align: center;">
-    <img src="https://xianghancui.github.io/images/photos/2021FAST.png" alt="2021FAST" style="zoom: 50%;" />
+    <img src="https://xianghancui.github.io/images/photos/2021FAST.png" alt="2021FAST" style="zoom: 40%;" />
 </div>
 
 
 
-
-2018.08 NAOC Summer Camp, Beijing, China
+###### 2018.08 NAOC Summer Camp, Beijing, China
 
 <div style="text-align: center;">
     <img src="https://xianghancui.github.io/images/photos/2018NAOC.png" alt="2018NAOC" style="zoom: 50%;" />
@@ -106,10 +106,9 @@ author_profile: true
 
 
 
-
-2018.07 Yunnan Observatories Summer Camp, Kunming, China
+###### 2018.07 Yunnan Observatories Summer Camp, Kunming, China
 
 <div style="text-align: center;">
-    <img src="https://xianghancui.github.io/images/photos/2018yunnan.png" alt="2018Yunnan" style="zoom: 50%;" />
+    <img src="https://xianghancui.github.io/images/photos/2018yunnan.png" alt="2018Yunnan" style="zoom: 40%;" />
 </div>
 
