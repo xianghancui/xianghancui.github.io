@@ -19,13 +19,17 @@ author_profile: true
 
 ###### 2024.10 Visiting ASKAP, MWA, and SKA-Low, Murchison, Australia
 
-<img src="https://xianghancui.github.io/images/photos/2024SKA.png" alt="2024SKA" style="zoom: 50%;" />
+<div style="text-align: center;">
+    <img src="https://xianghancui.github.io/images/photos/2024SKA.png" alt="2024SKA" style="zoom: 30%;" />
+</div>
 
 
 
 ###### 2024.10 Radio School 2024, Geraldton, Australia
 
-<img src="https://xianghancui.github.io/images/photos/2024radioschool.jpg" alt="2024radioschool" style="zoom: 10%;" />
+<div style="text-align: center;">
+    <img src="https://xianghancui.github.io/images/photos/2024radioschool.jpg" alt="2024radioschool" style="zoom: 10%;" />
+</div>
 
 
 
@@ -37,13 +41,13 @@ author_profile: true
 
 ###### 2024.02 East Asian Young Astronomers Meeting 2024, Chiang Mai, Thailand
 
-<img src="https://xianghancui.github.io/images/photos/2024thai.JPG" alt="2024thai" style="zoom: 10%;" />
+<img src="https://xianghancui.github.io/images/photos/2024thai.png" alt="2024thai" style="zoom: 20%;" />
 
 
 
 ###### 2024.01 ICRAR/CIRA, visiting PhD student, Perth, Australia
 
-<img src="https://xianghancui.github.io/images/photos/2024CIRA.png" alt="2024CIRA" style="zoom: 10%;" />
+<img src="https://xianghancui.github.io/images/photos/2024CIRA.png" alt="2024CIRA" style="zoom: 20%;" />
 
 
 
@@ -62,3 +66,15 @@ author_profile: true
 ###### 2023.07 Scientific Program of FAST/Future Pulsar Symposium 12, Nanyang, China
 
 <img src="https://xianghancui.github.io/images/photos/2023FPS.jpg" alt="2023FPS" style="zoom: 10%;" />
+
+
+
+2022.08 FAST, Pingtang, China
+
+
+
+2019.08 FAST, Pingtang, China
+
+
+
+2019.07 FAST, Pingtang, China
