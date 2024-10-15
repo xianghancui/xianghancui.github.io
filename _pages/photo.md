@@ -81,18 +81,32 @@ author_profile: true
 
 
 
-2022.08 FAST, Pingtang, China
+2022.12 LAMOST, Xinglong, China
+
+<div style="text-align: center;">
+    <img src="https://xianghancui.github.io/images/photos/2022LAMOST.png" alt="2022LAMOST" style="zoom: 10%;" />
+</div>
+
+
+
+2021.08 FAST, Pingtang, China
 
 <div style="text-align: center;">
     <img src="https://xianghancui.github.io/images/photos/2021FAST.png" alt="2021FAST" style="zoom: 30%;" />
 </div>
 
-2018.08 NAOC, Beijing, China
 
 
-
-2018.07 Yunnan Observatories, Kunming, China
+2018.08 NAOC Summer Camp, Beijing, China
 
 <div style="text-align: center;">
-    <img src="https://xianghancui.github.io/images/photos/2018yunnan.png" alt="2018yunnan" style="zoom: 30%;" />
+    <img src="https://xianghancui.github.io/images/photos/2018NAOC.png" alt="2018NAOC" style="zoom: 30%;" />
+</div>
+
+
+
+2018.07 Yunnan Observatories Summer Camp, Kunming, China
+
+<div style="text-align: center;">
+    <img src="https://xianghancui.github.io/images/photos/2018yunnan.png" alt="2018Yunnan" style="zoom: 30%;" />
 </div>
