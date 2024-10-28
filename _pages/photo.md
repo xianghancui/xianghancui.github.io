@@ -110,7 +110,7 @@ author_profile: true
 ###### 2018.07 Yunnan Observatories Summer Camp, Kunming, China
 
 <div style="text-align: center;">
-    <img src="https://xianghancui.github.io/images/photos/2018yunnan.png" alt="2018Yunnan" style="zoom: 45%;" />
+    <img src="https://xianghancui.github.io/images/photos/2018yunnan.png" alt="2018Yunnan" style="zoom: 42%;" />
 </div>
 
 
