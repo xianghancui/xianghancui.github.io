@@ -24,7 +24,7 @@ author_profile: true
 
 ### Talks
 
-- Burst 2024, Khao Lak, Thailand\\
+- 2024.11 Fast Radio Burst 2024, Khao Lak, Thailand \\
 
   Bias-corrected fast radio burst spectra using CHIME injection data
 
