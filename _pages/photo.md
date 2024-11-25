@@ -17,7 +17,7 @@ author_profile: true
 
 ### 2024
 
-###### 2024.11 Attending Fast Radio Burst 2024, Khao Lak, Thailand
+###### 2024.11 Fast Radio Burst 2024, Khao Lak, Thailand
 
 <div style="text-align: center;">
     <img src="https://xianghancui.github.io/images/photos/FRB2024.jpg" alt="2024radioschool" style="zoom: 25%;" />
