@@ -127,4 +127,4 @@ author_profile: true
 
 <br>
 
-***For more photography🔭📡, please see the [telescope gallery](https://xianghancui.github.io/gallery).***
+***For more photography🔭📡, please see the [telescope gallery](https://xianghancui.github.io/gallery) @XianghanCui.***

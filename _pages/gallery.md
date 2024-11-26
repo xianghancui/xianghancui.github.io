@@ -46,12 +46,6 @@ author_profile: true
 <br>
 
 <div style="text-align: center;">
-    <img src="https://xianghancui.github.io/images/photos/ASKAP1.jpeg" alt="ASKAP1" style="zoom: 100%;" />
-</div>
-
-<br>
-
-<div style="text-align: center;">
     <img src="https://xianghancui.github.io/images/photos/ASKAP2.jpeg" alt="ASKAP2" style="zoom: 100%;" />
 </div>
 
