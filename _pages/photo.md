@@ -20,8 +20,9 @@ author_profile: true
 ###### 2025.01 Finished one-year visiting at ICRAR/CIRA, Perth, Australia
 
 <div style="text-align: center;">
-    <img src="https://xianghancui.github.io/images/photos/ICRAR-finished.jpg" alt="ICRAR-finished" style="zoom: 40%;" />
+    <img src="https://xianghancui.github.io/images/photos/ICRAR.jpg" alt="ICRAR" style="zoom: 40%;" />
 </div>
+
 
 ### 2024
 
