@@ -73,7 +73,7 @@ author_profile: true
 ###### 2024.01 ICRAR/CIRA, visiting PhD student, Perth, Australia
 
 <div style="text-align: center;">
-    <img src="https://xianghancui.github.io/images/photos/2024CIRA.png" alt="2024CIRA" style="zoom: 40%;" />
+    <img src="https://xianghancui.github.io/images/photos/2024CIRA.png" alt="2024CIRA" style="zoom: 45%;" />
 </div>
 
 
