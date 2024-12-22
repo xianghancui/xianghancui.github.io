@@ -15,6 +15,14 @@ author_profile: true
 
 ----
 
+### 2025
+
+###### 2025.01 Finished one-year visiting at ICRAR/CIRA, Perth, Australia
+
+<div style="text-align: center;">
+    <img src="https://xianghancui.github.io/images/photos/ICRAR-finished.jpg" alt="2024radioschool" style="zoom: 25%;" />
+</div>
+
 ### 2024
 
 ###### 2024.11 Fast Radio Burst 2024, Khao Lak, Thailand
