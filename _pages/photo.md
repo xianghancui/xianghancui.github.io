@@ -17,6 +17,14 @@ author_profile: true
 
 ### 2025
 
+###### 2025.06 Doctoral Graduation Defense at NAOC, Beijing, China
+
+<div style="text-align: center;">
+    <img src="https://xianghancui.github.io/images/photos/2025phddef.jpg" alt="2025phddef" style="zoom: 25%;" />
+</div>
+
+
+
 ###### 2025.01 Finished one-year visiting at ICRAR/CIRA, Perth, Australia
 
 <div style="text-align: center;">
