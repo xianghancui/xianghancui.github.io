@@ -13,7 +13,8 @@ author_profile: true
 
 ## Education Background
 
-- 2019.09-present (2025.06) University of Chinese Academy of Sciences (UCAS), National Astronomical Observatories (NAOC), Radio Astronomy, [ISM Research Group](http://groups.bao.ac.cn/ism/english/), Master and Ph.D. student
+- 2025.07-present National Astronomical Observatories (NAOC), Radio Astronomy, PostDoc researcher
+- 2019.09-2025.06 University of Chinese Academy of Sciences (UCAS), National Astronomical Observatories (NAOC), Radio Astronomy, [ISM Research Group](http://groups.bao.ac.cn/ism/english/), Master and Ph.D. student
 - 2023.12-2025.01 International Centre for Radio Astronomy Research (ICRAR)/Curtin Institute of Radio Astronomy (CIRA), Radio Astronomy, visiting Ph.D. student
 - 2017.03-2018.06 Huazhong University of Science and Technology, School of Management (Minor degree)
 - 2015.09-2019.06 Wuhan University of Technology, School of Natural Sciences, Department of Physics, Optoelectronic Information Science and Engineering (Major B.S. degree)
@@ -55,6 +56,7 @@ The hints to the origin of different luminosity distributions for repeating and 
 
 ## Awards
 
+- 2025.06, Distinguished Graduate of UCAS
 - 2024.07, Presidential Scholarship (Excellent Prize) of Chinese Academy of Sciences
 - 2024.05, Outstanding Student of UCAS
 - 2023.10 Zhu Li Yuehua Outstanding Doctoral Scholarship (CAS)
