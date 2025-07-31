@@ -10,9 +10,9 @@ redirect_from:
 
 Hi! This is Xianghan Cui (崔翔翰), welcome to my research homepage. 
 
-I'm a fourth-year PhD candidate in astrophysics from the National Astronomical Observatories, Chinese Academy of Sciences, advised by [Di Li](http://groups.bao.ac.cn/ism/english/chiefscientist/202204/t20220415_695884.html) and [Chengmin Zhang](https://people.ucas.ac.cn/~zhangcm?language=en).  Currently, I have finished one-year visiting PhD program at International Centre for Radio Astronomy Research/Curtin Institute of Radio Astronomy , supervised by [Clancy James](https://staffportal.curtin.edu.au/staff/profile/view/clancy-james-9504b0ca/). My main interests are in fast radio bursts (FRB) and pulsars, but I'm curious about everything in the universe.
+I'm a postdoctoral researcher in astrophysics at the National Astronomical Observatories (NAOC), Chinese Academy of Sciences, advised by. I obtained my PhD degree from NAOC in June 2025, supervised by [Di Li](http://groups.bao.ac.cn/ism/english/chiefscientist/202204/t20220415_695884.html) and [Chengmin Zhang](https://people.ucas.ac.cn/~zhangcm?language=en). My main interests are in fast radio bursts (FRB) and pulsars, but I'm curious about everything in the universe.
 
-Recently, I am focusing on the CHIME/FRB data and analyzing the population characteristics of FRBs using highly comprehensive statistical methods.
+Recently, I have been focusing on CHIME/FRB data to analyze the population characteristics of FRBs, as well as their origins.
 
 <img src="https://xianghancui.github.io/images/camp-lightning.jpeg" alt="camp-lightning" style="zoom: 30%;" />
 
