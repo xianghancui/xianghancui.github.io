@@ -20,7 +20,7 @@ author_profile: true
 ###### 2025.06 Doctoral graduation defense at NAOC, Beijing, China
 
 <div style="text-align: center;">
-    <img src="https://xianghancui.github.io/images/photos/2025phddef.jpg" alt="2025phddef" style="zoom: 7%;" />
+    <img src="https://xianghancui.github.io/images/photos/2025phddef.jpg" alt="2025phddef" style="zoom: 10%;" />
 </div>
 
 
