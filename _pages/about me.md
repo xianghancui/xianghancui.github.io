@@ -9,7 +9,7 @@ author_profile: true
 
 ----
 
- [My full CV](../files/CV_cxh.pdf) (Last updated: August 2025)
+ [My full CV](../files/CV_cxh.pdf) (Last updated: September 2025)
 
 ## Education Background
 
@@ -52,11 +52,11 @@ The hints to the origin of different luminosity distributions for repeating and 
 
 ### Professional Service
 
-- 2022, Referee for MNRAS
+- 2022-2025, Referee for MNRAS
 
 ## Awards
 
-- 2025.06, Distinguished Graduate of UCAS
+- 2025.06, Distinguished Graduate of UCAS and Beijing Municipal Education Commission
 - 2024.07, Presidential Scholarship (Excellent Prize) of Chinese Academy of Sciences
 - 2024.05, Outstanding Student of UCAS
 - 2023.10, Zhu Li Yuehua Outstanding Doctoral Scholarship (CAS)
