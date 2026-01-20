@@ -9,10 +9,11 @@ author_profile: true
 
 ----
 
- [My full CV](../files/CV_cxh.pdf) (Last updated: September 2025)
+ [My full CV](../files/CV_cxh.pdf) (Last updated: January 2026)
 
 ## Education Background
 
+- 2026.01-present, Netherlands Institute for Radio Astronomy (ASTRON), Radio Astronomy, PostDoc researcher
 - 2025.07-present, National Astronomical Observatories (NAOC), Radio Astronomy, PostDoc researcher
 - 2019.09-2025.06, University of Chinese Academy of Sciences (UCAS), National Astronomical Observatories (NAOC), Radio Astronomy, [ISM Research Group](http://groups.bao.ac.cn/ism/english/), Master and Ph.D. student
 - 2023.12-2025.01, International Centre for Radio Astronomy Research (ICRAR)/Curtin Institute of Radio Astronomy (CIRA), Radio Astronomy, visiting Ph.D. student
@@ -25,6 +26,8 @@ author_profile: true
 
 ### Talks
 
+- 2025.05, PhD Thesis Defense, Beijing, China\\
+  Population and mechanisms studies of fast radio bursts
 - 2024.11, Fast Radio Burst 2024, Khao Lak, Thailand \\
   Bias-corrected fast radio burst spectra using CHIME injection data
 - 2024.06, Astronomical Society of Australia Annual Scientific Meeting 2024 Perth Hub, Perth, Australia \\
@@ -56,7 +59,8 @@ The hints to the origin of different luminosity distributions for repeating and 
 
 ## Awards
 
-- 2025.06, Distinguished Graduate of UCAS and Beijing Municipal Education Commission
+- 2025.06, Distinguished Graduate of Beijing Municipal Education Commission
+- 2025.06, Distinguished Graduate of UCAS
 - 2024.07, Presidential Scholarship (Excellent Prize) of Chinese Academy of Sciences
 - 2024.05, Outstanding Student of UCAS
 - 2023.10, Zhu Li Yuehua Outstanding Doctoral Scholarship (CAS)
