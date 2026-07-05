@@ -9,12 +9,15 @@ author_profile: true
 
 ----
 
- [My full CV](../files/CV_cxh.pdf) (Last updated: January 2026)
+ [My full CV](../files/CV_cxh.pdf) (Last updated: June 2026)
+
+## Academic Positions
+
+- 2026.01-present, Netherlands Institute for Radio Astronomy (ASTRON), Radio Astronomy, Long-term Visiting Postdoctoral Researcher
+- 2025.07-present, National Astronomical Observatories, Chinese Academy of Sciences (NAOC), Radio Astronomy, Postdoctoral Researcher
 
 ## Education Background
 
-- 2026.01-present, Netherlands Institute for Radio Astronomy (ASTRON), Radio Astronomy, PostDoc researcher
-- 2025.07-present, National Astronomical Observatories (NAOC), Radio Astronomy, PostDoc researcher
 - 2019.09-2025.06, University of Chinese Academy of Sciences (UCAS), National Astronomical Observatories (NAOC), Radio Astronomy, [ISM Research Group](http://groups.bao.ac.cn/ism/english/), Master and Ph.D. student
 - 2023.12-2025.01, International Centre for Radio Astronomy Research (ICRAR)/Curtin Institute of Radio Astronomy (CIRA), Radio Astronomy, visiting Ph.D. student
 - 2017.03-2018.06, Huazhong University of Science and Technology, School of Management (Minor degree)
