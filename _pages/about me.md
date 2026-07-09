@@ -9,7 +9,7 @@ author_profile: true
 
 ----
 
- [My full CV](../files/CV_cxh.pdf) (Last updated: June 2026)
+ [My full CV](../files/CV_cxh.pdf) (Last updated: July 2026)
 
 ## Academic Positions
 
@@ -29,6 +29,8 @@ author_profile: true
 
 ### Talks
 
+-  2026.07, Fast Radio Burst 2026, Guiyang, China\\
+  Decreasing DM in the population of repeating FRBs and connection to SNR expansion
 - 2025.05, PhD Thesis Defense, Beijing, China\\
   Population and mechanisms studies of fast radio bursts
 - 2024.11, Fast Radio Burst 2024, Khao Lak, Thailand \\
