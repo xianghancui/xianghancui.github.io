@@ -5,7 +5,21 @@ permalink: /gallery/
 author_profile: true
 ---
 
-## DART（2025）[📍](https://maps.app.goo.gl/HVnVMuAPigfJ2j2D6)
+## Dwingeloo Radio Telescope (2026) [📍](https://www.google.com/maps/place/Radiotelescoop+Dwingeloo/@52.812131,6.3937272,17z/data=!3m1!4b1!4m6!3m5!1s0x47c816eb31b2b67f:0x436a92edcf264f3b!8m2!3d52.812131!4d6.3963021!16zL20vMDhqdnQx!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D)
+
+<div style="text-align: center;">
+    <img src="https://xianghancui.github.io/images/photos/Dwingeloo.jpg" alt="Dwing1" style="zoom: 100%;" />
+</div>
+
+<br>
+
+<div style="text-align: center;">
+    <img src="https://xianghancui.github.io/images/photos/Dwingeloo2.jpeg" alt="Dwing2" style="zoom: 100%;" />
+</div>
+
+<br>
+
+## DART (2025) [📍](https://maps.app.goo.gl/HVnVMuAPigfJ2j2D6)
 
 <div style="text-align: center;">
     <img src="https://xianghancui.github.io/images/photos/dart1.jpg" alt="dart1" style="zoom: 100%;" />
@@ -26,7 +40,7 @@ author_profile: true
 
 
 
-Mt Pleasant Radio Telescope (2024) [📍](https://www.google.com/maps/place/Mount+Pleasant+Radio+Observatory/@-42.8035973,147.4379129,17z/data=!3m1!4b1!4m6!3m5!1s0xaa6e0a0867f37953:0x31bafde11597d852!8m2!3d-42.8035973!4d147.4404878!16zL20vMDduZHds!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D)
+## Mt Pleasant Radio Telescope (2024) [📍](https://www.google.com/maps/place/Mount+Pleasant+Radio+Observatory/@-42.8035973,147.4379129,17z/data=!3m1!4b1!4m6!3m5!1s0xaa6e0a0867f37953:0x31bafde11597d852!8m2!3d-42.8035973!4d147.4404878!16zL20vMDduZHds!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D)
 
 <div style="text-align: center;">
     <img src="https://xianghancui.github.io/images/photos/Tasmania.jpeg" alt="Tas" style="zoom: 100%;" />
