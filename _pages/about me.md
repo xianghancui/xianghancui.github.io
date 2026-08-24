@@ -9,7 +9,7 @@ author_profile: true
 
 ----
 
- [My full CV](../files/CV_cxh.pdf) (Last updated: July 2026)
+ [My full CV](../files/CV_cxh.pdf) (Last updated: August 2026)
 
 ## Academic Positions
 
