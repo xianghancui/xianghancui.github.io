@@ -5,6 +5,34 @@ permalink: /gallery/
 author_profile: true
 ---
 
+
+
+## FAST (2026, during FRB2026) [📍](https://www.google.com/maps/place/Fast+Telescope/@25.6529288,106.847982,2641m/data=!3m1!1e3!4m6!3m5!1s0x36b893af0427c50d:0xe848f44ca5aebbbf!8m2!3d25.6528739!4d106.8565533!16s%2Fg%2F11h_72kw5g?entry=ttu&g_ep=EgoyMDI0MTAwOS4wIKXMDSoASAFQAw%3D%3D)
+
+<div style="text-align: center;">
+    <img src="https://xianghancui.github.io/images/photos/FAST2026_1.jpeg" alt="fast20261" style="zoom: 100%;" />
+</div>
+
+<br>
+
+<div style="text-align: center;">
+    <img src="https://xianghancui.github.io/images/photos/FAST2026_2.jpeg" alt="fast20262" style="zoom: 100%;" />
+</div>
+
+<br>
+
+<div style="text-align: center;">
+    <img src="https://xianghancui.github.io/images/photos/FRB2026-fast1.jpeg" alt="fast20263" style="zoom: 100%;" />
+</div>
+
+<br>
+
+<div style="text-align: center;">
+    <img src="https://xianghancui.github.io/images/photos/FRB2026-fast2.jpeg" alt="fast20264" style="zoom: 100%;" />
+</div>
+
+<br>
+
 ## Dwingeloo Radio Telescope (2026) [📍](https://www.google.com/maps/place/Radiotelescoop+Dwingeloo/@52.812131,6.3937272,17z/data=!3m1!4b1!4m6!3m5!1s0x47c816eb31b2b67f:0x436a92edcf264f3b!8m2!3d52.812131!4d6.3963021!16zL20vMDhqdnQx!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D)
 
 <div style="text-align: center;">
