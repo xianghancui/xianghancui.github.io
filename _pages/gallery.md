@@ -10,15 +10,29 @@ author_profile: true
 <div style="text-align: center;">
     <img src="https://xianghancui.github.io/images/photos/dart1.jpg" alt="dart1" style="zoom: 100%;" />
 </div>
+<br>
+
 
 <div style="text-align: center;">
     <img src="https://xianghancui.github.io/images/photos/dart2.jpg" alt="dart2" style="zoom: 100%;" />
 </div>
+<br>
+
 
 <div style="text-align: center;">
     <img src="https://xianghancui.github.io/images/photos/dart3.jpg" alt="dart3" style="zoom: 100%;" />
 </div>
+<br>
 
+
+
+Mt Pleasant Radio Telescope (2024) [📍](https://www.google.com/maps/place/Mount+Pleasant+Radio+Observatory/@-42.8035973,147.4379129,17z/data=!3m1!4b1!4m6!3m5!1s0xaa6e0a0867f37953:0x31bafde11597d852!8m2!3d-42.8035973!4d147.4404878!16zL20vMDduZHds!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D)
+
+<div style="text-align: center;">
+    <img src="https://xianghancui.github.io/images/photos/Tasmania.jpeg" alt="Tas" style="zoom: 100%;" />
+</div>
+
+<br>
 
 
 ## SKA-Low (2024) [📍](https://www.google.com/maps/place/26°51'18.0%22S+116°43'48.0%22E/@-26.8549797,116.7299991,918m/data=!3m1!1e3!4m4!3m3!8m2!3d-26.855!4d116.73?entry=ttu&g_ep=EgoyMDI0MTAwOS4wIKXMDSoASAFQAw%3D%3D)
