@@ -26,7 +26,7 @@ author_profile: true
 **2026.01 ASTRON, long-term visiting postdoc researcher, Dwingeloo, the Netherlands**
 
 <div style="text-align: center;">
-    <img src="https://xianghancui.github.io/images/photos/astron.jpeg" alt="astron" style="zoom: 25%;" />
+    <img src="https://xianghancui.github.io/images/photos/astron.jpeg" alt="astron" style="zoom: 35%;" />
 </div>
 
 ### 2025
